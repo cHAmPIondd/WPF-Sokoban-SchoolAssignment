@@ -1,0 +1,133 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<mapstore>
+  <map Id="l">
+    <hero x="5" y="5" />
+    <width>11</width>
+    <height>12</height>
+    <row0>22222222222</row0>
+    <row1>20010000102</row1>
+    <row2>20222220202</row2>
+    <row3>20012020002</row3>
+    <row4>20004020002</row4>
+    <row5>20222020002</row5>
+    <row6>20004030002</row6>
+    <row7>20222020002</row7>
+    <row8>20000000002</row8>
+    <row9>20222000002</row9>
+    <row10>20000000002</row10>
+    <row11>22222222222</row11>
+  </map>
+  <map Id="1">
+    <hero x="4" y="5" />
+    <width>10</width>
+    <height>10</height>
+    <row0>2222222222</row0>
+    <row1>2002000002</row1>
+    <row2>2000201002</row2>
+    <row3>2001021002</row3>
+    <row4>2000402022</row4>
+    <row5>2000000402</row5>
+    <row6>2000401002</row6>
+    <row7>2000004002</row7>
+    <row8>2000000002</row8>
+    <row9>2222222222</row9>
+  </map>
+  <map Id="2">
+    <hero x="5" y="5" />
+    <width>10</width>
+    <height>10</height>
+    <row0>2222222222</row0>
+    <row1>2001000002</row1>
+    <row2>2022224202</row2>
+    <row3>2001020002</row3>
+    <row4>2000400002</row4>
+    <row5>2000000002</row5>
+    <row6>2000400002</row6>
+    <row7>2000000002</row7>
+    <row8>2000000012</row8>
+    <row9>2222222222</row9>
+  </map>
+  <map Id="3">
+    <hero x="1" y="5" />
+    <width>7</width>
+    <height>7</height>
+    <row0>0020200</row0>
+    <row1>0214020</row1>
+    <row2>2111022</row2>
+    <row3>2414002</row3>
+    <row4>2040022</row4>
+    <row5>2042200</row5>
+    <row6>2002000</row6>
+  </map>
+  <map Id="4">
+    <hero x="5" y="3" />
+    <width>10</width>
+    <height>8</height>
+    <row0>2002111120</row0>
+    <row1>2202211200</row1>
+    <row2>2220244200</row2>
+    <row3>2222200222</row3>
+    <row4>2200044400</row4>
+    <row5>2000000000</row5>
+    <row6>2040222222</row6>
+    <row7>2000200000</row7>
+  </map>
+  <map Id="5">
+    <hero x="6" y="5" />
+    <width>10</width>
+    <height>9</height>
+    <row0>0022200020</row0>
+    <row1>0222222220</row1>
+    <row2>2220020022</row2>
+    <row3>0200020022</row3>
+    <row4>0240404022</row4>
+    <row5>0204220022</row5>
+    <row6>2204020202</row6>
+    <row7>1111100200</row7>
+    <row8>2222222200</row8>
+  </map>
+  <map Id="6">
+    <hero x="2" y="4" />
+    <width>8</width>
+    <height>8</height>
+    <row0>00222000</row0>
+    <row1>02222222</row1>
+    <row2>22200002</row2>
+    <row3>02244402</row3>
+    <row4>20041102</row4>
+    <row5>20411122</row5>
+    <row6>22220022</row6>
+    <row7>02222222</row7>
+  </map>
+  <map Id="7">
+    <hero x="7" y="6" />
+    <width>14</width>
+    <height>11</height>
+    <row0>00222000000000</row0>
+    <row1>00222222222200</row1>
+    <row2>00002200000200</row2>
+    <row3>11200004420200</row3>
+    <row4>11002200040222</row4>
+    <row5>11200224204002</row5>
+    <row6>11000200404002</row6>
+    <row7>11200204040002</row7>
+    <row8>01000204040222</row8>
+    <row9>00200200022000</row9>
+    <row10>00200002220000</row10>
+  </map>
+  <map Id="limit">
+    <hero x="4" y="5" />
+    <width>10</width>
+    <height>10</height>
+    <row0>2222222222</row0>
+    <row1>2002000002</row1>
+    <row2>2000201002</row2>
+    <row3>2001021002</row3>
+    <row4>2000402022</row4>
+    <row5>2000000402</row5>
+    <row6>2000401002</row6>
+    <row7>2000004002</row7>
+    <row8>2000000002</row8>
+    <row9>2222222222</row9>
+  </map>
+</mapstore>

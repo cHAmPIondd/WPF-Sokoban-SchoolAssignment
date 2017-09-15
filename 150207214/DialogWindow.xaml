@@ -1,0 +1,11 @@
+﻿<Window x:Class="_150207214.DialogWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="DialogWindow" Height="214" Width="380" Closed="OnClosed" KeyDown="Enter_KeyDown">
+    <Grid>
+        <Label x:Name="content_label" Content="" HorizontalAlignment="Center" Margin="0,-50,0,0" VerticalAlignment="Center"/>
+        <TextBox x:Name="content_text" HorizontalAlignment="Center" Height="23" Margin="-80,60,0,0" TextWrapping="Wrap" VerticalAlignment="Center" Width="68"/>
+        <Button x:Name="done_button" Content="Done" HorizontalAlignment="Center" Margin="80,60,0,0" VerticalAlignment="Center" Width="75" Click="done_button_Click"/>
+
+    </Grid>
+</Window>

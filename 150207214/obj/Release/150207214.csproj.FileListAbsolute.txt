@@ -1,0 +1,13 @@
+D:\150207214\150207214\bin\Release\150207214.exe.config
+D:\150207214\150207214\bin\Release\150207214.exe
+D:\150207214\150207214\bin\Release\150207214.pdb
+D:\150207214\150207214\obj\Release\MainWindow.baml
+D:\150207214\150207214\obj\Release\MainWindow.g.cs
+D:\150207214\150207214\obj\Release\App.g.cs
+D:\150207214\150207214\obj\Release\150207214_MarkupCompile.cache
+D:\150207214\150207214\obj\Release\150207214.g.resources
+D:\150207214\150207214\obj\Release\_150207214.Properties.Resources.resources
+D:\150207214\150207214\obj\Release\_150207214.Resource.resources
+D:\150207214\150207214\obj\Release\150207214.csproj.GenerateResource.Cache
+D:\150207214\150207214\obj\Release\150207214.exe
+D:\150207214\150207214\obj\Release\150207214.pdb

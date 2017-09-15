@@ -1,0 +1,24 @@
+﻿<Window x:Class="_150207214.MapEditorWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MapEditorWindow" Height="385.025" Width="800.7" Closed="OnClosed">
+    <Grid x:Name="main_view" Margin="0,0,-163,1" RenderTransformOrigin="0.433,0.506">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="Auto" MinWidth="440"/>
+        </Grid.ColumnDefinitions>
+        <Canvas x:Name="map_canvas" HorizontalAlignment="Left" Margin="80,80,0,0" VerticalAlignment="Top" Height="0" Width="0"/>
+        <Menu DockPanel.Dock="Top"  HorizontalAlignment="Left" VerticalAlignment="Top" Height="22" Margin="8,4,0,0">
+            <MenuItem Header="File">
+                <MenuItem Header="New" Click="new_map_Click"></MenuItem>
+                <MenuItem Header="Load" Click="load_button_Click"></MenuItem>
+                <MenuItem Header="Save" Click="save_button_Click"></MenuItem>
+                <MenuItem Header="Exit" Click="exit_button_Click"></MenuItem>
+            </MenuItem>
+            <MenuItem Header="Test">
+                <MenuItem Header="Manual Test" Click="test_button_Click"></MenuItem>
+                <MenuItem Header="AI Test" Click="measure_button_Click"></MenuItem>
+            </MenuItem>
+        </Menu>
+        <Label x:Name="label" Content="1" HorizontalAlignment="Left" Margin="666,20,-222,0" VerticalAlignment="Top"/>
+    </Grid>
+</Window>

@@ -1,0 +1,19 @@
+﻿<Window x:Class="_150207214.GameWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="GameWindow" Height="350" Width="525" KeyDown="OnKeyDown" Closed="OnClosed">
+<Grid>
+    <Grid.ColumnDefinitions>
+        <ColumnDefinition Width="445*"/>
+        <ColumnDefinition Width="72*"/>
+    </Grid.ColumnDefinitions>
+    <Canvas x:Name="gameview" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="60"/>
+        <Menu DockPanel.Dock="Top"  HorizontalAlignment="Left" VerticalAlignment="Top" Height="22" Margin="8,4,0,0">
+            <MenuItem Header="File">
+                <MenuItem Header="Reset" Click="backto_button_Click"></MenuItem>
+                <MenuItem Header="Exit" Click="exit_button_Click"></MenuItem>
+            </MenuItem>
+        </Menu>
+    </Grid>
+</Window>
+
